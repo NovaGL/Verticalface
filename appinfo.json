@@ -1,0 +1,45 @@
+{
+    "appKeys": {
+        "KEY_COLOR_BLUE": 2,
+        "KEY_COLOR_GREEN": 1,
+        "KEY_COLOR_RED": 0
+    },
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "NovaG",
+    "enableMultiJS": true,
+    "longName": "VericalFace",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "characterRegex": "[0-9:.]",
+                "file": "fonts/Siple Bold.TTF",
+                "name": "FONT_SIPLE_BOLD_47",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "characterRegex": "[0-9:.]",
+                "file": "fonts/Siple Lite.TTF",
+                "name": "FONT_SIPLE_LITE_47",
+                "targetPlatforms": null,
+                "trackingAdjust": 1,
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "VericalFace",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "54d3008f-0e46-462c-995c-0d0b4e01148c",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
